@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawerlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <android.support.v4.view.ViewPager
+            android:id="@+id/view_page"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            />
+        <RadioGroup
+            android:id="@+id/radio_group"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            >
+            <RadioButton
+
+                android:id="@+id/btn1"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:button="@null"
+                android:text="首页"
+                android:checked="true"
+                android:gravity="center"
+                android:background="@drawable/selectors"
+                />
+            <RadioButton
+
+                android:id="@+id/btn2"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:button="@null"
+                android:text="消息"
+                android:gravity="center"
+                android:background="@drawable/selectors"
+                />
+            <RadioButton
+
+                android:id="@+id/btn3"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:button="@null"
+                android:text="我的"
+                android:gravity="center"
+                android:background="@drawable/selectors"
+                />
+        </RadioGroup>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#ccc"
+        >
+        <TextView
+            android:text="我是侧滑页面"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_left_in.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_delete_btn_show.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\delete_btn_show.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_right_to_middle_mine.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\right_to_middle_mine.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_umeng_socialize_shareboard_animation_in.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_hide_image_browse.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\hide_image_browse.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_pull_to_refresh_header_horizontal.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_out_to_bottom.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_show_image_browse.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\show_image_browse.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_right_in.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_left_out.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_delete_btn.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\layout\\delete_btn.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_right_out.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_indicator_bg_top.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_midle_to_right_mine.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\midle_to_right_mine.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_right_in_no_anim.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_right_in_no_anim.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_default_ptr_rotate.png.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_umeng_socialize_fade_in.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_indicator_arrow.png.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_umeng_socialize_slide_out_from_bottom.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_default_ptr_flip.jpg.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\default_ptr_flip.jpg"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_umeng_socialize_fade_out.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_pop_window_in.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\pop_window_in.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_midle_to_right.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\midle_to_right.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_indicator_arrow.png.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_default_ptr_flip.jpg.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\default_ptr_flip.jpg"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_left_to_middle_mine.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\left_to_middle_mine.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_open_screen.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\open_screen.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_umeng_socialize_slide_in_from_bottom.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_in_from_bottom.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_delete_btn_hide.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\delete_btn_hide.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_up_down.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\up_down.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_midle_to_left.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\midle_to_left.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_down_up.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\down_up.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_close_screen.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\close_screen.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_left_out_no_anim.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_left_out_no_anim.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_right_to_middle.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\right_to_middle.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_out_to_top.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_midle_to_left_mine.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\midle_to_left_mine.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_left_in_no_anim.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_left_in_no_anim.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_right_out_no_anim.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_right_out_no_anim.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_in_from_top.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_pop_window_out.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\pop_window_out.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_default_ptr_rotate.png.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_default_ptr_flip.jpg.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\default_ptr_flip.jpg"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_pull_to_refresh_header_vertical.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_left_to_middle.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\left_to_middle.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_default_ptr_rotate.png.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_indicator_bg_bottom.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_umeng_socialize_shareboard_animation_out.xml.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_indicator_arrow.png.flat",
+        "source": "F:\\MyStudio\\LiQingShuai20180730\\pullToRefreshlibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\indicator_arrow.png"
+    }
+]
